@@ -1,0 +1,25 @@
+.TabelaProdutos table{
+    width: 100%;
+    overflow: hidden;
+}
+.TabelaProdutos th{
+    background: #0743b1;
+    border-radius: 5px;
+    color: aliceblue;
+    overflow: hidden;
+}
+
+.TabelaProdutos .Par{
+    background: rgb(192, 190, 190);
+    overflow: hidden;
+}
+
+.TabelaProdutos .Impar{
+    background: rgb(228, 221, 221);
+    overflow: hidden;
+}
+
+.TabelaProdutos td{
+    border-radius: 5px;
+    overflow: hidden;
+}
